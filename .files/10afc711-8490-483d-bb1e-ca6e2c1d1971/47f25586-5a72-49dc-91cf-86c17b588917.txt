@@ -1,0 +1,5 @@
+📄 **Beyond Static Obstacles: Integrating Kalman Filter with Reinforcement Learning for Drone Navigation**
+
+- File: `Beyond_Static_Obstacles_Integrating_Kalman_Filter_.pdf`
+- Chunks: `92`
+- ID: `Beyond_Static_Obstacles_Integrating_Kalman_Filter_`

@@ -1,0 +1,5 @@
+📄 **Cost-Effective Autonomous Drone Navigation Using Reinforcement Learning: Simulation and Real-World Validation**
+
+- File: `Cost-Effective_Autonomous_Drone_Navigation_Using_R.pdf`
+- Chunks: `91`
+- ID: `Cost-Effective_Autonomous_Drone_Navigation_Using_R`
